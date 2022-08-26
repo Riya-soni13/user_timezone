@@ -1,0 +1,4 @@
+name: User Timezone
+type: module
+description: 'This module provides the timezone selected from the admin configurations.'
+core: 8.x
